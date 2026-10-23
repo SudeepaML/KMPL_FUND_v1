@@ -1,0 +1,6 @@
+{
+  "name": "KMPL Fund",
+  "description": "Village Cricket Tournament Fund & Member Management Ledger for KMPL 2025",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
